@@ -1,0 +1,13 @@
+{
+    "name": "basic-server",
+    "version": "1.0.0",
+    "description": "mi primer server en node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "startII": "node ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Julio Valencia",
+    "license": "ISC"
+}
